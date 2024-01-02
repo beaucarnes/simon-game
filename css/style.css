@@ -10,7 +10,7 @@ body {
 .button {
   border-radius: 50% !important;
   font-size: 1.5em;
-  background-color: lightgray;
+  background-color: rgb(179, 190, 12);
 }
 
 #switches {
@@ -49,7 +49,7 @@ body {
 #turn {
   position: absolute;
   background: #330000;
-  color: red;
+  color: #800707;
   font-family: courier;
   font-size: 20px;
   height: 30px;
@@ -62,7 +62,7 @@ body {
 }
 
 #outer-circle {
-  background: #385a94;
+  background: #0e3e92;
   border-radius: 50%;
   height: 500px;
   width: 500px;
@@ -81,7 +81,7 @@ body {
   border-radius: 250px 0 0 0;
   -moz-border-radius: 250px 0 0 0;
   -webkit-border-radius: 250px 0 0 0;
-  background: darkgreen;
+  background: rgb(10, 192, 10);
   top: 50%;
   left: 50%;
   margin: -250px 0px 0px -250px;
@@ -99,7 +99,7 @@ body {
   border-radius: 0 250px 0 0;
   -moz-border-radius: 0 250px 0 0;
   -webkit-border-radius: 0 250px 0 0;
-  background: darkred;
+  background: rgb(2, 79, 77);
   top: 50%;
   left: 50%;
   margin: -250px 0px 0px 0px;
